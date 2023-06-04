@@ -1,0 +1,12 @@
+{
+  "Application": {
+    "app_name": "TaxiOperation",
+    "log_level": "WARN"
+  },
+  "Data": {
+    "taxi_dataset_path": "C:\\taxi\\yellow_tripdata_2019-01.csv",
+    "taxi_file_format": "csv",
+    "weather_dataset_path": "C:\\weather\\nyc_weather.csv",
+    "weather_file_format": "csv"
+  }
+}
